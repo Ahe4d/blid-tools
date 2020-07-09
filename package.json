@@ -1,0 +1,23 @@
+{
+  "name": "blid-tools",
+  "version": "1.0.0",
+  "description": "A set of of tools for Blockland authentication",
+  "main": "blidTools.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahe4d/blid-tools.git"
+  },
+  "keywords": [
+    "blockland",
+    "node"
+  ],
+  "author": "Ahe4d",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ahe4d/blid-tools/issues"
+  },
+  "homepage": "https://github.com/Ahe4d/blid-tools#readme"
+}
